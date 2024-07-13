@@ -1,7 +1,8 @@
 <html>
 <head>
 </head>
-<body bgcolor="skyblue">
+<h2>login form</h2>
+<body bgcolor="red">
  <form name="f1">
    <table>
       <tr>
